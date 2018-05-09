@@ -1,0 +1,1 @@
+define({  "name": "公益校友地图",  "version": "1.0.0",  "description": "WAP端接口",  "title": "公益校友地图API文档",  "url": "http://192.168.2.35",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2017-12-25T03:07:08.477Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }});
